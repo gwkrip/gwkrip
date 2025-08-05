@@ -129,7 +129,7 @@ Music: 🎵 Lo-fi hip hop radio
 
 ### "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-![Visitor Count](https://profile-counter.glitch.me/gwkrip/count.svg)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=gwkrip.gwkrip)
 
 **Thanks for visiting! ⭐ Star some repos if you find them interesting!**
 
